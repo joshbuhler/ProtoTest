@@ -1,6 +1,6 @@
 # ProtoTest
 
-Small project that illustrates a build issue encountered when moving from Xcode 10.1 to Xcode 10.2. Our project was using Swift 4.2. This is just a smaller project that isolates and illustrates the issue we rean into.
+Small project that illustrates a build issue encountered when moving from Xcode 10.1 to Xcode 10.2. Our project was using Swift 4.2. This is just a smaller project that isolates and illustrates the issue we ran into.
 
 We found that when using protocol composition, in combination with generics, we would get the following build errors:
 
